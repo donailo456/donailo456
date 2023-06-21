@@ -12,6 +12,14 @@
 	</a>
 </div>
 
+
+# About me
+
+- 👨🏻‍💻 Studying Swift since 2022
+- 🧠 I'm constantly learning something new
+- 🌍 Russian native, English A1 (pre-intermediate)
+- 📫 Reach me by don_komarov@mail.ru
+  
 <!--
 **donailo456/donailo456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
