@@ -7,8 +7,11 @@
 	<a>
 		<img src="https://img.shields.io/badge/MASTER_FALIK@MAIL.RU-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/>
 	</a>
-	<a>
+	<a href="https://t.me/donailo456">
 		<img src="https://img.shields.io/badge/@DONAILO456-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+	<a href="https://leetcode.com/donailo456/">
+		<img src="https://img.shields.io/badge/LEETCODE-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
 	</a>
 </div>
 
