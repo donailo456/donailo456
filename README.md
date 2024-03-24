@@ -23,4 +23,4 @@
 - 🌍 Russian native, English A1 (pre-intermediate)
 - 📫 Reach me by don_komarov@mail.ru
   
-[![Leetcode Stats](https://leetcard.jacoblin.cool/donailo456)](https://leetcode.com/donailo456)
+![Leetcode Stats](https://leetcard.jacoblin.cool/donailo456?theme=dark)
