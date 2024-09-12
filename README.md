@@ -22,5 +22,7 @@
 - 🧠 I'm constantly learning something new
 - 🌍 Russian native, English A1 (pre-intermediate)
 - 📫 Reach me by don_komarov@mail.ru
-  
-![Leetcode Stats](https://leetcard.jacoblin.cool/donailo456?theme=dark)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/donailo456?theme=dark" alt="Leetcode Stats">
+</p>
